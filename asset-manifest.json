@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio/static/js/main.50c8daea.js",
+    "static/media/spidy.jpg": "/portfolio/static/media/spidy.3bb1a0acb897d0203bc9.jpg",
+    "static/media/spidy logo.jpg": "/portfolio/static/media/spidy logo.6ffc43f891a9e90a4a53.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
+    "main.50c8daea.js.map": "/portfolio/static/js/main.50c8daea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.50c8daea.js"
+  ]
+}
